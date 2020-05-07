@@ -6,7 +6,7 @@
 
 ### File Descriptions
 	
-	* **Seattle_AirBnB** - It is my first project that contains a study about average price of Airbnbs in Seattle.  
+	- *Seattle_AirBnB* - It is my first project that contains a study about average price of Airbnbs in Seattle.  
 	
 ### How to interact with your project
 	
