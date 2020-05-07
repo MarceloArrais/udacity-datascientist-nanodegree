@@ -5,8 +5,7 @@
 #### Therefore, this repository will contain all the projects that I will develop into this course.
 
 ### File Descriptions
-	
-	- ***Seattle_AirBnB*** - It is my first project that contains a study about average price of Airbnbs in Seattle.  
+* Seattle_AirBnB.ipynb - It is my first project that contains a study about average price of Airbnbs in Seattle.  
 	
 ### How to interact with your project
 	
