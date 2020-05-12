@@ -1,6 +1,6 @@
 This post will made you understand better the 
 
-![jpg](images/events.jpg)
+![jpg](images/rio.jpg)
 
 Rio de Janeiro is the city owner of Christ the Redeemer, one of the Seven Wonders of the World. But not just that, this city has so many attractions that it is almost impossible to know all of them in an week or even in a month. There you can do whatever you want to, since hike in amazing forest trail until go clubbing at night. 
 
