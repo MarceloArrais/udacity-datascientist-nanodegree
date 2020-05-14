@@ -2,26 +2,25 @@
 
 ![jpg](images/rio.jpg)
 
-Brazil is a country of continental proportion that give you a lot of reasons to visit it. On of them is Rio de Janeiro, residence of Christ the Redeemer, this city is filled with intresting attractions that anyone can enjoy. There are so many options that you could expend more than a month to explore all the touriscs points of this capital.  
+Brazil is a country of continental proportion that give you a lot of reasons to visit it. On of them is Rio de Janeiro, residence of Christ the Redeemer, this city is full of intresting attractions that anyone can enjoy. There are so many options that you could expend more than a month to explore all the touriscs points of this capital.  
 
-For example, in the same day you can wake up early morning to hike in an amazing forest trail, try the local food in great restaurant at lunch time, enjoy copacabana beach in the afternoon ang clubbing at night. It was just an example, the options of possible schedule available to you have the same size of your imagination. As if that were not enough, this city get much more exciting in New year's eve, Carnival and Rock in Rio.
+For example, in the same day you can wake up early morning to hike in an amazing forest trail, try the local food in great restaurant at lunch time, enjoy copacabana beach in the afternoon and clubbing at night. It was just an example, the possibilities have the same size of your imagination. As if that were not enough, this city get much more exciting in New year's eve, Carnival and Rock in Rio.
 
-No wonder Rio de Janeiro is one of the most sought Brazilians city in tourism industry worldwide. In 2019, this metropoly received 6,5 millions of visitors that has movimented a billions of dollar and made the local tourism industry grown 1,4% according Agência Brasil EBC. 
+No wonder Rio de Janeiro is one of the most sought Brazilians city in tourism industry worldwide. In 2019, this metropoly received 6.5 millions of visitors that has movimented a billions of dollar and made the local tourism industry grown 1,4% according Agência Brasil EBC [1]. 
 
-Given this scenario, Airbnb is standing out for explored the Rio's tourism market very well and getting a solid position even facing proeminent competitors. Thus, I'll present to you how Airbnb is positioned in terms of average prices and number of reviews given by the guests. To reach that goal, I response the following question using public information available in the Airbnb site. 
+Given this scenario, Airbnb is standing out for explored the Rio's tourism market very well and getting a solid position even facing proeminent competitors. Thus, I'll present to you how Airbnb is positioned in terms of average prices and number of reviews given by the guests. To reach that goal, I response the following question using public information available in the Airbnb website[2]. 
  
 ***(a) How fast is Airbnb growing in Rio de Janeiro?***    
 ***(b) How events affect Airbnb activities?***    
-***(c) What are the most popular neighborhoods?***      
-***(d) What are the most wanted porperty types?***  
-***(e) What are the average price per person in the most popular neighborhoods and property types?***  
+***(c) What are the most popular neighborhoods are the most wanted porperty types?***       
+***(d) What are the average price per person in the most popular neighborhoods and property types?***  
 
 Before I start my analysis, it's important expose my premises and reasons to use them.   
 
 * First of all, Airbnb does not publish when an accomodations were rented or how long it has been rented. Without this data, calculate the number of bookings can be a difficult and inaccurate process. Thus, rather use numbers of bookings I prefered use number of reviews given by the guests because this two metrics are directly correlated.  
 
 
-### **(a) How Airbnb is growing in Rio de Janeiro?** MUDAR - Criar uma introdução e o link entre chart below.Which
+### **(a) How Airbnb is growing in Rio de Janeiro?** 
 
 To view better how the Airbnb expantion occurs over the years, I've ploted the chart below. Which one represents the evolution of total numbers through the weeks.  
 ![jpg](images/cumulative.jpg)
@@ -51,14 +50,14 @@ Using the same criteria as for neighborhoods analysis, the most wanted property 
 
 ![jpg](images/perc-property-type.jpg)
 
-***(e) What are the average price per person in the most popular neighborhoods and property types?***
+***(d) What are the average price per person in the most popular neighborhoods and property types?***
 
 Using the 10 most popular neighborhoods and 5 most required property types, it is possible to see that the both neighborhood and property type influence the avarege price per accommodate. Let's compare the different proprieties prices in Flamengo and Leblon neighborhoods: a house in Flamengo is much cheaper than in Leblon, but a Serviced apartament is more expensive in Flamengo. Is this chart, we can see that Leblon is the neighborhood which present the most expensive average price divided by property type.
+![jpg](images/price-accommodates.jpg)
 
-![jpg](images/price-accomodates.jpg)
+#Contents 
 
+* https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/faturamento-de-operadoras-de-turismo-cresceu-14-em-2019 [1]
+* http://insideairbnb.com/get-the-data.html [2]
 
-* https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/faturamento-de-operadoras-de-turismo-cresceu-14-em-2019
-* http://insideairbnb.com/get-the-data.html
-
-* https://www.statista.com/statistics/974580/carnival-revenue-brazil/ 
+Feel free to explore my project in my github: https://github.com/MarceloArrais/udacity-datascientist-nanodegree/tree/master/rio-de-janeiro-airbnb
