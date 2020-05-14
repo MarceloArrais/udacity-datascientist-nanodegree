@@ -1,63 +1,66 @@
-# Title 
-
+# **It will make you understand better the participation of Airbnb in the tourism market of Rio de Janeiro**
 
 ![jpg](images/rio.jpg)
 
+Brazil is a country of continental proportion that give you a lot of reasons to visit it. On of them is Rio de Janeiro, residence of Christ the Redeemer, this city is filled with intresting attractions that anyone can enjoy. There are so many options that you could expend more than a month to explore all the touriscs points of this capital.  
+For example, in the same day you can wake up early morning to hike in an amazing forest trail, try the local food in great restaurant at lunch time, enjoy copacabana beach in the afternoon ang clubbing at night. It was just an example, the options of possible schedule available to you have the same size of your imagination. As if that were not enough, this city get much more exciting in New year's eve, Carnival and Rock in Rio.
 
-Rio de Janeiro is the city owner of Christ the Redeemer, one of the Seven Wonders of the World. But not just that, this city has so many attractions that it is almost impossible to know all of them in an week or even in a month. There you can do whatever you want from hiking in an amazing forest trail to enjoyin clubbing at night. No wonder, brazilians call her wonderful city!!! 
-It's evident that Rio has all main characteristics to be an amazing place to visit and it is receiving a large number of tourists annually. According Agência Brasil EBC, the tourism sector received 6,5 millions of visitors in 2019 which movimented $2,56 billions (considering conversion of R$ 5,89 to $ 1,00) and made this sector grown by 1,4%.
+No wonder Rio de Janeiro is one of the most sought Brazilians city in tourism industry worldwide. In 2019, this metropoly received 6,5 millions of visitors that has movimented a billions of dollar and made the local tourism industry grown 1,4% according Agência Brasil EBC. 
 
-* https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/faturamento-de-operadoras-de-turismo-cresceu-14-em-2019  
+Given this scenario, Airbnb is standing out for explored the Rio's tourism market very well and getting a solid position even facing proeminent competitors. Thus, I'll present to you some how Airbnb is positioned in terms of average prices and number of given reviews by the guests. To reach that goal, I response the followed question using public information available in the Airbnb site. 
+ 
+***(a) How fast is Airbnb growing in Rio de Janeiro?***    
+***(b) How events affect Airbnb activities?***    
+***(c) What are the most popular neighborhoods?***      
+***(d) What are the most wanted porperty types?***  
+***(e) What are the average price per person in the most popular neighborhoods and property types?***  
 
-However, as a any other billionary market the tourism in Rio de Janeiro is disputed and has some strong players, but even them do not hamper the expressive growth of Airbnb. Therefore, with this post I wish to show you how Airbnb is playing this game and for achieve my goal I've dive into data from link below to answer the following questionns:
+Before I start my analysis, it's important expose my premises and reasons to use them.   
 
-* http://insideairbnb.com/get-the-data.html
+* First of all, Airbnb does not publish when an accomodations were rented or for how long it has been rented. Without this data, calculate the number of bookings can be a difficult and inaccurate process. Thus, rather use numbers of bookings I prefered use number of given reviews by the guests because this two metrics are directly correlated.  
 
-***(a) How Airbnb is growing in Rio de Janeiro?***    
-***(b) How events can boost Airbnb activities?***    
-***(c) What are the most popular neighborhood?***      
-***(d) What are the most wanted porperty type?***  
-***(e) What are the average price por accommodates stratified by neighborhood and by property type?***  
 
-Are you ready to deep your knowledge about this topic?   
-Okay... go ahead!
+### **(a) How Airbnb is growing in Rio de Janeiro?** MUDAR - Criar uma introdução e o link entre chart below.Which
 
-### **(a) How Airbnb is growing in Rio de Janeiro?**
-
-Since 2015, the Airbnb is growing in Rio de Janeiro as we can see in the chart above which show us that in 2015 this startup reached a total of 20 thousand reviews and four years later this number has increased almost in 6 times. Another fact is that the straight of the line is increasing over the years indicating a raising of rate of number of reviews. Nevertheless, i n the first quater of 2020, the Airbnb was following this tendency stronger than last year, but it has been strucked by COVID-19 after carnival (9th week): when the first register of people contamined by this virus occured.
-
+To view better how the Airbnb expantion occurs over the years, I've ploted the chart below. Which one represents the evolution of total numbers through the weeks.  
 ![jpg](images/cumulative.jpg)
 
+The rise of the cumulative number of reviews per week that resembles a linear trend, indicating a constant growth rate during each year since 2015. Another great information obtained from the chart is that the slope is increasing by the year, which could be a strong sign of bookings growth. Lastly, the year 2020 was following the analysis made before till the eleventh week: 2 weeks after the first case confirmed of Covid-19 in Brazil. After that, the reviews decreases drastically to almost zero in the sixteenth week.
 
 ### ***(b) How events can boost Airbnb activities?***   
 
-It is pretty nice to see how the number of reviews per week throughout the years happens in Rio de Janeiro and notice that some events affects a lot the tourism in the city. For example, it is notable the peaks of New Year's Eve (annually), Carnival (annually), Olimpics Games (2016), Rock in Rio (2017, 2019) and America Cup of football (2019). In another hand, the numbers os reviews is descreasing since 9th week of 2020 and it shows how strong is being the impact of coronavirus at the Airbnb growth. 
-
+To study how some events can affect the Airbnb activities in Rio de Janeiro, I´ve preferred plotting a chart showing the number of reviews by week instead of the cumulative number of reviews as made in the previous graph.
 ![jpg](images/events.jpg)
 
-I've mentioned before that the events impact a lot the market of Airbnb in Rio de Janeiro and to make it clear I built the table below that represent the percentage increase of reviews comparing each peak with average of respective year. Thereby, it evident that the most impactant event was the Olimpcs Games that occured in 2016 and reached the impressive mark of 355,94% and the less impactant event was American Cup of Football with 22,90%.
-
+Immediately, we can see prominent peaks in the chart above that represents a substantial elevation of reviews per week due to events. Some of them are clustered and others isolated. 
+The clustered peaks can appear annually as New Year's Eve (1st week) and Carnival (between 6th and 9th week) or with some frequency as Rock in Rio that happened in 2016 (38th-39th week) and 2019 (40th week).  
+In contrast, peaks of Olympics Games in 2016 (33rd week) and America Cup of football (25-28th week)  show up alone. 
+Other peaks less expressive are related to a bank holiday or weekends and will be out of my analysis. 
+To gauge what was the most and least impactful event, I've compared each peak to the average of the respective year in percentual terms. The results were compiled in the table below where we can see that Olympics Games were the most impactful with 355,94% and the least impactful was the America Cup of Football, which reached 22,90%. 
 ![jpg](images/events-table.jpg)
 
 ## **(c) What are the most popular neighborhood?**
 
-The chart below show the top 10 neighborhood that get more reviews in 2019.
+The chart below show the top 10 neighborhoods that got the most reviews in 2019.
 
 ![jpg](images/perc-neighborhood.jpg)
 
-We can notice that 47% of given reviews in 2019 was to accommodations located in Copa, follow by Ipanema, Barra da Tijuca and Leblon.  
+We can notice that 47% of the given reviews in 2019 were to accommodations located in Copacabana, followed by Ipanema, Barra da Tijuca and Leblon.  
      
 ## **(d) What are the most wanted porperty type?**
 
-Doing the same done for neighborhood, the most wanted property type was Apartamente with aproximately 78% of reviews, followed by Serviced Apartament, Condominium, Loft and House.
+Using the same criteria as for neighborhoods analysis, the most wanted property type was Apartament with aproximately 78% of reviews, followed by Serviced Apartament, Condominium, Loft and House.
 
 ![jpg](images/perc-property-type.jpg)
 
 ***(e) What are the average price por accommodates stratified by neighborhood and by property type?***
 
-Using the 10 most pospular neighborhood and 5 most required property type, it is possible to see that the both neighborhood and property type influence the avarege price per accommodate. Let's go to compare the difference perfil of price among Flamengo and Leblon neighborhoods. A house in Flamengo is much more cheaper than Leblon, but Serviced apartament is more expensive in Flamengo than in Leblon. Is this chart, we can see that Leblon is the neighborhood which present the most expensive average price divided by property type.
+Using the 10 most popular neighborhoods and 5 most required property types, it is possible to see that the both neighborhood and property type influence the avarege price per accommodate. Let's compare the different proprieties prices in Flamengo and Leblon neighborhoods: a house in Flamengo is much cheaper than in Leblon, but a Serviced apartament is more expensive in Flamengo. Is this chart, we can see that Leblon is the neighborhood which present the most expensive average price divided by property type.
 
-![jpg](images/perc-property-type.jpg)
+![jpg](images/price-accomodate.jpg)
 
 
+* https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/faturamento-de-operadoras-de-turismo-cresceu-14-em-2019
+* http://insideairbnb.com/get-the-data.html
 
+* https://www.statista.com/statistics/974580/carnival-revenue-brazil/ 
