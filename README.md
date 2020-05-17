@@ -5,7 +5,9 @@ My last two jobs required skills to manipulate a large amount of data to generat
 
 ### File Descriptions
 
-**[1] - rio-de-janeiro-airbnb** - This folder all files used to develop my first project, which contains a study about Airbnb in Rio de Janeiro.  
+##### **rio-de-janeiro-airbnb** - This folder all files used to develop my first project, which contains a study about Airbnb in Rio de Janeiro.  
+**<files/folders>**
+  
 	1. rio-de-janeiro.ipynb - source code  
 	2. blog-post.md - a version of my blog post with the main results and can be found  
 	3. images - images used in blog-post.mg file  
