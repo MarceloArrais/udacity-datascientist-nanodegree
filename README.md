@@ -4,13 +4,12 @@ My last two jobs required skills to manipulate a large amount of data to generat
 **Therefore, this repository will contain all the projects that I will develop into this course.**
 
 ### File Descriptions
-
+**<files> - <description>**
 ##### **rio-de-janeiro-airbnb** - This folder all files used to develop my first project, which contains a study about Airbnb in Rio de Janeiro.  
-**<files/folders>**
   
-	1. rio-de-janeiro.ipynb - source code  
-	2. blog-post.md - a version of my blog post with the main results and can be found  
-	3. images - images used in blog-post.mg file  
+	<rio-de-janeiro.ipynb> - <source code>  
+	<blog-post.md> - <a version of my blog post with the main results and can be found>  
+	<images> - <images used in blog-post.mg file>  
 
   
 	
