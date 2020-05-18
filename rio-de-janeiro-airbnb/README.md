@@ -7,7 +7,7 @@ To Show how Airbnb is positioned in Rio's tourism industry
 * images | images used in blog-post.mg file  
 * blog-post.md | a version of my blog post with the main results and can be found on following link: https://medium.com/@aads.marcelo/4-intriguing-facts-about-airbnb-in-rio-de-janeiro-f09bb96b7cff
 
-* ***The datasets are on https:*** //drive.google.com/open?id=1-gkhSZMl8MjKvjsaWO_yPtsVf310shV9  
+* ***The datasets are on*** https://drive.google.com/open?id=1-gkhSZMl8MjKvjsaWO_yPtsVf310shV9  
 
 ## Python Libraries  
 * Pandas
