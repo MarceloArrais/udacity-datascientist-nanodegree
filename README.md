@@ -8,8 +8,7 @@ My last two jobs required skills to manipulate a large amount of data to generat
 ***rio-de-janeiro-airbnb*** - This folder all files used to develop my first project, which contains a study about Airbnb in Rio de Janeiro.  
 --> rio-de-janeiro.ipynb | source code  
 --> images | images used in blog-post.mg file
---> blog-post.md | a version of my blog post with the main results and can be found  
-on following link: https://medium.com/@aads.marcelo/4-intriguing-facts-about-airbnb-in-rio-de-janeiro-f09bb96b7cff
+--> blog-post.md | a version of my blog post with the main results and can be found on following link: https://medium.com/@aads.marcelo/4-intriguing-facts-about-airbnb-in-rio-de-janeiro-f09bb96b7cff
   
 
   
