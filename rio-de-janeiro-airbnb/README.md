@@ -14,7 +14,7 @@ To Show how Airbnb is positioned in Rio's tourism industry
 * Numpy
 * Matplotlib
 
-# References 
+## References 
 * https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/faturamento-de-operadoras-de-turismo-cresceu-14-em-2019  
 * http://insideairbnb.com/get-the-data.html  
 
