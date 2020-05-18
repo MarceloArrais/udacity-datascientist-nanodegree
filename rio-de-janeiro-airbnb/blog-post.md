@@ -1,4 +1,4 @@
-# How to get the most of Airbnb in Rio de Janeiro  
+# 4 intriguing facts about Airbnb in Rio de Janeiro
 
 ![jpg](images/rio.jpg)
 
