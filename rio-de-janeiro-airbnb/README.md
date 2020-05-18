@@ -14,15 +14,15 @@ To Show how Airbnb is positioned in Rio's tourism industry
 * Numpy
 * Matplotlib
 
-## References 
-* https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/faturamento-de-operadoras-de-turismo-cresceu-14-em-2019  
-* http://insideairbnb.com/get-the-data.html  
-
 ## Findings
 * Over the years more and more people are using the platform;    
 * Events have a big impact on Airbnbs activity;  
 * Copacabana is the most popular neighbourhood whereas the apartments are the type of property with more reviews;  
 * The average price per person depends on both: location and property type.
+
+## References 
+* https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/faturamento-de-operadoras-de-turismo-cresceu-14-em-2019  
+* http://insideairbnb.com/get-the-data.html  
 
 ## Authors  
 Marcelo Alves Arrais de Souza
