@@ -5,11 +5,11 @@
 The business model of Airbnb is earning  a solid position in strategic markets worldwide. One of them is Rio de Janeiro: the most recognizable Brazilian city abroad.  
 In 2019, Rio received around 6.5 million visitors, the tourism industry has grown 1,4% and the market was evaluated in the billions of dollars, according to Agência Brasil EBC [1]. This is a promising market for a disruptive player as Airbnb.  
 Thereby, in the light of tourism market in Rio, I explored the case study of Airbnb by using Data Science techniques. All data used in this article is publicly available at Inside Airbnb. [2]  
-### This article will show you the following topics: 
-1. Airbnb growth in term of reviews.
-2. The impact in Airbnb activity in virtue of big events like The New Year's Eve and Carnival.
-3. The most popular neighbourhoods.
-4. Pricing.
+### This article will show you the following topics:  
+1. Is Airbnb growing in Rio de Janeiro?  
+2. How events as New Year’s Eve and Carnival affect Airbnb’s activities?  
+3. The most popular neighbourhoods?  
+4. Do the average price depend on both neighborhood and property type?  
 
 ### Airbnb growth
 The chart below gives a visualization on how Airbnb is growing each year by counting the accumulative number of reviews in the platform.
