@@ -37,11 +37,11 @@ The charts below shows the top 10 neighbourhoods with the most reviews in 2019, 
 
 ![jpg](images/perc-neighborhood.jpg)
 
-Undoubtedly, Copacabana is the most popular neighbourhood in Rio de Janeiro. Listings in this area has received 44% of all reviews. Nevertheless, this graph also reveals the tourism trends in Rio since all the top 10 neighbourhoods are really close to the coast, where tourists can find beautiful beaches.
+Undoubtedly, Copacabana is the most popular neighbourhood in Rio de Janeiro. Listings in this area has received 37,1% of all reviews. Nevertheless, this graph also reveals the tourism trends in Rio since all the top 10 neighbourhoods are really close to the coast, where tourists can find beautiful beaches.
 
 ![jpg](images/perc-property-type.jpg)
 
-The type of properties with the most activity based on reviews in Rio are Apartments (80,7%) which was significantly higher than all others as shown above. This result was expected because tourist neighbourhoods has many more buildings than others type of properties.  
+The type of properties with the most activity based on reviews in Rio are Apartments (77,1%) which was significantly higher than all others as shown above. This result was expected because tourist neighbourhoods has many more buildings than others type of properties.  
 
 ## Pricing  
 In the chart below we can see that the average price vary from one type of property to another (different colours in the same bar) as well as the prices in each neighbourhood (same colour in different bars).
