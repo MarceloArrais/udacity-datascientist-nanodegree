@@ -44,6 +44,19 @@ A Flask application where the user can put messages to be categorized and then d
 
 3. Go to http://0.0.0.0:3001/
 
+## Python Libraries
+
+* sys
+* nltk
+* flask
+* plotly
+* Numpy
+* Pandas
+* pickle
+* sklearn
+* Matplotlib
+* sqlalchemy
+
 ## Acknowledgment
 
 Dataset was curated and given by [Flight Eight](https://appen.com/datasets/combined-disaster-response-data/)
