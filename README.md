@@ -5,9 +5,9 @@ My last two jobs required skills to manipulate a large amount of data to generat
 
 ### Brief Folders Descriptions
 
-***rio-de-janeiro-airbnb*** - This folder all files used to develop my first project, which contains a study about Airbnb in Rio de Janeiro.  
+***rio-de-janeiro-airbnb*** - Contains all files used to develop my first project, which contains a study about Airbnb in Rio de Janeiro.  
 
-
+***disaster-response*** - Contains *ETL and ML pipeline* to analyze a dataset that contains real messages sent during disaster events.
   
 
   
