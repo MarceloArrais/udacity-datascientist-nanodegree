@@ -48,14 +48,17 @@ def tokenize(text):
     << Return: 
         tokens_cleaned_lst: list of cleaned words
     '''   
+    # normalize
+    text = re.sub(r"[^a-zA-Z0-9]", " ", text) 
     
     tokens_lst = word_tokenize(text)
     lemmatizer = WordNetLemmatizer()
     
     tokens_cleaned_lst = []
     for token in tokens_lst:
-        token_cleaned = lemmatizer.lemmatize(token).lower().strip()
-        tokens_cleaned_lst.append(token_cleaned)
+        if token not in stopwords.words("english"):  # remove stop words
+            token_cleaned = lemmatizer.lemmatize(token, pos = 'v').strip()
+            tokens_cleaned_lst.append(token_cleaned)
         
     return tokens_cleaned_lst
 
@@ -71,11 +74,13 @@ def build_model():
         ('tfidf', TfidfTransformer()),
         ('clf', MultiOutputClassifier(AdaBoostClassifier()))
     ])
-
+    
     parameters = { 
-        'tfidf__use_idf': (True, False), 
-        'clf__estimator__n_estimators': [50, 100],
-        'clf__estimator__learning_rate': [1,2] 
+        #'vect__ngram_range': ((1, 1), (1, 2)),
+        #'vect__max_df': (0.75, 1.0),
+        #'tfidf__use_idf': (True, False), 
+        #'clf__estimator__n_estimators': [50, 100],
+        #'clf__estimator__learning_rate': [1,2] 
     }
     
     return GridSearchCV(pipeline, param_grid=parameters)
