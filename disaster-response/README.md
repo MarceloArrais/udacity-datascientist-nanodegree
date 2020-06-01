@@ -26,10 +26,11 @@ A Flask application where the user can put messages to be categorized and then d
 
 ### UI
 
-![dataset](images/message-genre-distribution.png)
+![genre](images/message-genre-distribution.png)
 
-![classification](images/categories-distribution.png)
+![categories](images/categories-distribution.png)
 
+![classification](images/classify-message.png)
 
 ## Running
 1. Run the following commands in the project's root directory to set up your database and model.
