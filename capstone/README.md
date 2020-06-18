@@ -26,13 +26,13 @@ Thefore, the results of the best training are below.
 
 ## Python Libraries
 
-import pandas as pd
-import numpy as np
-import math
-import json
-import random
-import matplotlib.pyplot as plt
-from datetime import date, datetime
+import pandas as pd  
+import numpy as np  
+import math  
+import json  
+import random  
+import matplotlib.pyplot as plt  
+from datetime import date, datetime  
 
 ## Acknowledgment
 
