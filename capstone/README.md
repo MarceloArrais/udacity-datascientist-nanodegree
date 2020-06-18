@@ -12,7 +12,7 @@ This project aims to create a recommendation engine using machine learning conce
 To validate the FunkSVD model I've used Mean Squared Error metric and the comparison between train and testing data set. 
 Thefore, the results of the best training are below.
 
-[main_result](assets/main-result.png)
+![results](images/main-result.png)
 
 ## Files 
 
